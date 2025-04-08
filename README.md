@@ -1,25 +1,25 @@
-# ✨ Swap.ai - Your AI Content Magic Companion
+# ✨ Swapna AI - Your Creative Dreams Come True
 
-![Swap.ai Banner](assets/banner.png)
+![Swapna AI Banner](assets/banner.png)
 
-> Transform your content creation process with a sprinkle of AI magic ✨
+> Transform your ideas into reality with the power of AI dreams ✨
 
-## 🌟 The Story Behind Swap.ai
+## 🌟 The Story Behind Swapna AI
 
 Hey there! 👋 
 
 Ever found yourself staring at a blank screen, trying to come up with engaging content for your blog or social media? That was me, every single day. As a content creator, I knew there had to be a better way to spark creativity and streamline the content creation process.
 
-That's when Swap.ai was born – my solution to turn those blank-screen-blues into creative breakthroughs! 
+That's when Swapna AI was born – my solution to turn those blank-screen-blues into creative breakthroughs! The name "Swapna" means "dream" in Sanskrit, and that's exactly what we do – help turn your creative dreams into reality.
 
-## 🎯 What is Swap.ai?
+## 🎯 What is Swapna AI?
 
-Swap.ai is your AI-powered content companion that helps you create, refine, and manage content with ease. It's not just another AI tool – it's your creative partner that understands your voice and helps you maintain it across all your content.
+Swapna AI is your AI-powered creative companion that helps you create, refine, and manage content with ease. It's not just another AI tool – it's your dream partner that understands your vision and helps you bring it to life across all your content.
 
-## ✨ Features that Make the Magic Happen
+## ✨ Features that Make Dreams Reality
 
 ### 🎨 Content Creation Suite
-- **AI Magic Generator** - Transform brief ideas into fully-crafted content
+- **Dream Generator** - Transform brief ideas into fully-crafted content
 - **Smart Templates** - Your best content patterns, ready for reuse
 - **Voice Consistency** - AI that learns and maintains your unique style
 
@@ -39,7 +39,7 @@ Swap.ai is your AI-powered content companion that helps you create, refine, and 
 *Sleek dark mode for those late-night creative sessions*
 
 ![Content Generation](assets/content-demo.gif)
-*Watch ideas transform into engaging content in seconds*
+*Watch dreams transform into engaging content in seconds*
 
 ## 🚀 Getting Started
 
@@ -52,8 +52,8 @@ Swap.ai is your AI-powered content companion that helps you create, refine, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/swap-ai.git
-cd swap-ai
+git clone https://github.com/yourusername/swapna-ai.git
+cd swapna-ai
 ```
 
 2. Install dependencies:
@@ -81,7 +81,7 @@ npm run dev
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) and let the magic begin! ✨
+5. Open [http://localhost:3000](http://localhost:3000) and let your dreams begin! ✨
 
 ## 🛠️ Built With Love Using
 
@@ -97,11 +97,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-Got ideas to make the magic even better? Contributions are welcome! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+Got ideas to make the dreams even better? Contributions are welcome! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 ## 💌 Let's Connect!
 
-Have questions or just want to share your Swap.ai success story? Reach out!
+Have questions or just want to share your Swapna AI success story? Reach out!
 
 - 🐦 [Twitter](https://twitter.com/yourusername)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
